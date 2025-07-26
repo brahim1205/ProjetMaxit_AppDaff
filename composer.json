@@ -2,7 +2,7 @@
     "name": "khalil/newapp-daff",
     "autoload": {
         "psr-4": {
-            "Cherif\\NewappDaff\\": "src/"
+            "khalil\\NewappDaff\\": "src/"
         }
     },
     "authors": [
