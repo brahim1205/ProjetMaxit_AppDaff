@@ -1,5 +1,5 @@
 {
-    "name": "cherif/newapp-daff",
+    "name": "khalil/newapp-daff",
     "autoload": {
         "psr-4": {
             "Cherif\\NewappDaff\\": "src/"
