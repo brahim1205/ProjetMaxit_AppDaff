@@ -1,8 +1,8 @@
 {
-    "name": "khalil/newapp-daff",
+    "name": "fathie/newapp-daff",
     "autoload": {
         "psr-4": {
-            "khalil\\NewappDaff\\": "src/"
+            "fathie\\NewappDaff\\": "src/"
         }
     },
     "authors": [
